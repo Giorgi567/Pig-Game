@@ -1,6 +1,6 @@
 'use strict';
 
-// NOTE: this code is not mine but ive alredy created this game with my own code but i accidentally deleted the folder without even realizing it my old code and this code works exact same way only difference is code writing. and of course i can decrypt any part of the code and expalin it.
+// NOTE: this code is not mine but ive alredy created this game with my own code but i accidentally deleted the folder without even realizing it my old code and this code works exact same way only difference is code writing. and of course i can decrypt any part of the code and expalin it. I'm uploading this code because i dont want my hard work to go to waste.
 
 // Elements
 const playerN1 = document.querySelector('.player--0');
